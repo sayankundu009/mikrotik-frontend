@@ -73,3 +73,11 @@
 
 
 }
+
+ @media only screen and (max-height: 490px) {
+
+  #top-body{
+    height:600px;
+  }
+  
+}
